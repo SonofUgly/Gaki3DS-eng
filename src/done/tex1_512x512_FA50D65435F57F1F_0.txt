@@ -1,0 +1,50 @@
+セープデータを作成します。			Create save data.
+よろしいですか?					Are you sure?
+セーブデータを消しても				Are you sure you want
+よろしいですか?					to delete the save data?
+セープデータを消すと				If you delete your save data,
+二度と元には戻りません。			you will never get it back.
+本当に消してもよろしいですか?		Are you sure you want to delete it?
+セーブデータの消去が				The save data
+完了しました。					has been deleted.
+ショップに新しい商品が				A new item has been
+追加されました。					added to the store.
+ゲームを開始します。				Start the game.
+「性別」と「名前」は				Gender and name cannot
+今後変更できません。				be changed in the future.
+本当によろしいですか?				Are you sure you want to do this?
+この商品を購入しても				Are you sure you
+よろしいですか?					want to buy this item?
+ガースーコインが					Not enough
+足りません。					Gasu coins.
+パスワードの入力が				Password entered
+成功しました。					successfully.
+入力されたパスワードは				The password you have entered is
+無効です。						invalid.
+入力されたバスワードは				The password you entered 
+既に使用済みです。				has already been used.
+決定してもよろしいですか?			Are you sure you want to do this?
+名前は通信相手に公開されます。		Your name will be shown to the person you are communicating with.
+新たなメダルを獲得しました。			You have earned a new medal.
+新たなメダルを獲得しました。			You have earned a new medal.
+獲得したメダルはコレクションの		You can check your medals in
+メダル一覧で確認できます。			the medals list in your collection.
+本当に終了して					Are you sure you
+よろしいですか?					want to quit?
+セーブデータが壊れています。			Saved data is corrupted.
+データを削除しても				Are you sure you want
+よろしいですか?					to delete the data?
+おめでとう!						Congratulations!
+金のトロフィーを獲得しました!		You've won a gold trophy!
+おめでとう!						Congratulations!
+銀のトロフィーを獲得しました!		You've won a silver trophy!
+おめでとう!						Congratulations!
+銅のトロフィーを獲得しました!		You've won a bronze trophy!
+キャンセルしても					Are you sure you
+よろしいですか?					want to cancel?
+何も入力されていません。			You have not entered any information.
+決定してもよろしいですか?			Are you sure you want to do this?
+をクリアしたので報酬獲得!			You have cleared the "I" and you have earned a reward!
+完了ボタンを押さないと				If you don't click the "Done" button,
+エディット内容がセーブされません。		your edits will not be saved.
+キャンセルしますか?				Do you want to cancel?

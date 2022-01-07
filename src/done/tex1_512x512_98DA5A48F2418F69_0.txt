@@ -1,0 +1,20 @@
+はい						Yes
+いいえ					No
+はじめる					Start
+戻る						Back
+完了						Done
+やめる					Stop
+Aボタンを押してスタート			Press the A button to start
+この設定でゲームを始めます。	Start the game with this setting.
+よろしいですか?				
+エラーが発生しました			An error occurred
+セーブ中です。				Saving.
+電源を切らないでください。		Do not turn off the power.
+通信エラーがはっせいしました
+HOMEを押すと
+HOMEメニューにもどります
+通信中です
+しばらくお待ちください
+本当に終了して
+よろしいですか?
+"写真や画像・ 音声 ・ 動画・ 既文テキストの送受信"  が保護者により制服されているためこの機能を利用できません。
